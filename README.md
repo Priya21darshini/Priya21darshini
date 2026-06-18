@@ -23,7 +23,7 @@
 ## 🙋‍♀️ About Me
 
 ```python
-priyadarshini = {
+Priyadarshini Singh = {
     "location": "Bangalore, Karnataka 🇮🇳",
     "education": "B.E. Computer Science @ CMRIT (2026) | CGPA: 7.79",
     "interests": ["AI/ML", "Deep Learning", "Data Analytics", "Full Stack"],

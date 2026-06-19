@@ -95,47 +95,24 @@ Priyadarshini Singh = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Always%20Learning%20✨&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Always%20Learning%20✨&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
 
-</div>
-
-<div align="center">
+<br/>
 
 <table>
 <tr>
-<td align="center" width="150">
-<img src="https://media.giphy.com/media/qgQUggAC3Pft6/giphy.gif" width="60"><br/>
-<b>🤖 LLMs</b>
-</td>
-<td align="center" width="150">
-<img src="https://media.giphy.com/media/L1R1tvL5R3oQOXfV2C/giphy.gif" width="60"><br/>
-<b>🧠 Machine Learning</b>
-</td>
-<td align="center" width="150">
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOY/giphy.gif" width="60"><br/>
-<b>📐 DSA</b>
-</td>
-<td align="center" width="150">
-<img src="https://media.giphy.com/media/3oEjI5VuVNgFnzpSc8/giphy.gif" width="60"><br/>
-<b>⚡ Gen AI</b>
-</td>
-<td align="center" width="150">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60"><br/>
-<b>☁️ Cloud Tech</b>
-</td>
+<td align="center" width="120">🤖<br/><b>LLMs</b></td>
+<td align="center" width="120">🧠<br/><b>Machine Learning</b></td>
+<td align="center" width="120">📐<br/><b>DSA</b></td>
+<td align="center" width="120">⚡<br/><b>Gen AI</b></td>
+<td align="center" width="120">☁️<br/><b>Cloud Tech</b></td>
 </tr>
 </table>
 
-</div>
+<br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=800&color=D63384&center=true&vCenter=true&width=600&lines=Bubbling+with+curiosity+about+AI+%F0%9F%AB%A7;DSA+%2B+LLMs+%3D+my+daily+grind+%F0%9F%92%AB;Exploring+the+future%2C+one+model+at+a+time+%F0%9F%8C%9F" />
 
-![](https://img.shields.io/badge/dynamic/json?color=8B3DFF&style=for-the-badge&label=Status&query=status&url=https://api.coronavirus.data.gov.uk/v1/data&logo=hackthebox&logoColor=white)
-
-</div>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=700&size=22&duration=2000&pause=600&color=FF6B9D&center=true&vCenter=true&repeat=true&width=600&lines=Exploring+the+future%2C+one+model+at+a+time+%F0%9F%8C%9F;Bubbling+with+curiosity+about+AI+%F0%9F%AB%A7;DSA+%2B+LLMs+%3D+my+daily+grind+%F0%9F%92%AB" />
 </div>
 ---
 

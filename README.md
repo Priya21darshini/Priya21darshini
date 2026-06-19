@@ -95,23 +95,15 @@ Priyadarshini Singh = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Always%20Learning%20✨&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=800&color=8B3DFF&center=true&vCenter=true&width=600&lines=Always+Learning+%E2%9C%A8" />
+
+<br/><br/>
+
+🤖 **LLMs**　&nbsp;|&nbsp;　🧠 **Machine Learning**　&nbsp;|&nbsp;　📐 **DSA**　&nbsp;|&nbsp;　⚡ **Gen AI**　&nbsp;|&nbsp;　☁️ **Cloud Tech**
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="120">🤖<br/><b>LLMs</b></td>
-<td align="center" width="120">🧠<br/><b>Machine Learning</b></td>
-<td align="center" width="120">📐<br/><b>DSA</b></td>
-<td align="center" width="120">⚡<br/><b>Gen AI</b></td>
-<td align="center" width="120">☁️<br/><b>Cloud Tech</b></td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=800&color=D63384&center=true&vCenter=true&width=600&lines=Bubbling+with+curiosity+about+AI+%F0%9F%AB%A7;DSA+%2B+LLMs+%3D+my+daily+grind+%F0%9F%92%AB;Exploring+the+future%2C+one+model+at+a+time+%F0%9F%8C%9F" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=2500&pause=800&color=D63384&center=true&vCenter=true&width=600&lines=Bubbling+with+curiosity+about+AI+%F0%9F%AB%A7;DSA+%2B+LLMs+%3D+my+daily+grind+%F0%9F%92%AB;Exploring+the+future%2C+one+model+at+a+time+%F0%9F%8C%9F" />
 
 </div>
 ---

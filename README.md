@@ -92,6 +92,27 @@ Priyadarshini Singh = {
 
 ---
 
+## 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=8B3DFF&center=true&vCenter=true&width=600&lines=%F0%9F%A4%96+Large+Language+Models+(LLMs);%F0%9F%A7%A0+Advanced+Machine+Learning;%F0%9F%93%90+Data+Structures+%26+Algorithms;%E2%9A%A1+Generative+AI+%26+Prompt+Engineering;%E2%98%81%EF%B8%8F+Cloud+%26+MLOps;%F0%9F%94%AC+Vision+Transformers" alt="Currently Learning" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![LLMs](https://img.shields.io/badge/Learning-LLMs-8B3DFF?style=for-the-badge&logo=openai&logoColor=white)
+![GenAI](https://img.shields.io/badge/Learning-Generative_AI-D63384?style=for-the-badge&logo=googlegemini&logoColor=white)
+![DSA](https://img.shields.io/badge/Learning-DSA-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white)
+![MLOps](https://img.shields.io/badge/Learning-MLOps-009688?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Cloud](https://img.shields.io/badge/Learning-Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">

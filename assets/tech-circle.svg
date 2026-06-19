@@ -1,0 +1,156 @@
+<svg width="700" height="700" viewBox="0 0 700 700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#1a0b2e"/>
+      <stop offset="100%" stop-color="#0d0118"/>
+    </radialGradient>
+    <linearGradient id="brainGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d63384"/>
+      <stop offset="100%" stop-color="#8b3dff"/>
+    </linearGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b3dff" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#d63384" stop-opacity="0.6"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="4" stdDeviation="10" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="700" height="700" fill="url(#bgGlow)"/>
+
+  <!-- Decorative stars -->
+  <g fill="#ffffff" opacity="0.5">
+    <circle cx="80" cy="100" r="2"/>
+    <circle cx="620" cy="140" r="1.5"/>
+    <circle cx="100" cy="600" r="2"/>
+    <circle cx="610" cy="580" r="1.5"/>
+    <circle cx="350" cy="40" r="1.5"/>
+    <circle cx="60" cy="350" r="1.5"/>
+    <circle cx="640" cy="350" r="2"/>
+  </g>
+
+  <!-- Outer dashed orbit -->
+  <circle cx="350" cy="350" r="230" fill="none" stroke="url(#ringGrad)" stroke-width="2" stroke-dasharray="6 10" opacity="0.7"/>
+  <!-- Inner orbit -->
+  <circle cx="350" cy="350" r="230" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.08"/>
+
+  <!-- Connecting lines from center to each node -->
+  <g stroke="url(#ringGrad)" stroke-width="2" opacity="0.5">
+    <line x1="350" y1="350" x2="350" y2="130"/>
+    <line x1="350" y1="350" x2="548" y2="240"/>
+    <line x1="350" y1="350" x2="548" y2="460"/>
+    <line x1="350" y1="350" x2="350" y2="570"/>
+    <line x1="350" y1="350" x2="152" y2="460"/>
+    <line x1="350" y1="350" x2="152" y2="240"/>
+  </g>
+
+  <!-- ===== Center: AI Brain ===== -->
+  <circle cx="350" cy="350" r="95" fill="url(#brainGrad)" filter="url(#softShadow)"/>
+  <circle cx="350" cy="350" r="95" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.25"/>
+  <g filter="url(#glow)">
+    <!-- Brain icon -->
+    <g transform="translate(350,350)">
+      <path d="M -32,-10
+               C -32,-30 -14,-42 0,-38
+               C 14,-42 32,-30 32,-10
+               C 38,-6 38,8 32,14
+               C 34,28 22,40 8,38
+               C 4,42 -4,42 -8,38
+               C -22,40 -34,28 -32,14
+               C -38,8 -38,-6 -32,-10 Z"
+            fill="#ffffff" opacity="0.95"/>
+      <line x1="0" y1="-36" x2="0" y2="38" stroke="#8b3dff" stroke-width="2.5" opacity="0.6"/>
+      <path d="M -20,-22 Q -10,-18 -14,-8 Q -20,-2 -12,6" stroke="#8b3dff" stroke-width="2" fill="none" opacity="0.5"/>
+      <path d="M 20,-22 Q 10,-18 14,-8 Q 20,-2 12,6" stroke="#8b3dff" stroke-width="2" fill="none" opacity="0.5"/>
+      <circle cx="-22" cy="2" r="2.5" fill="#d63384"/>
+      <circle cx="22" cy="-6" r="2.5" fill="#d63384"/>
+      <circle cx="0" cy="22" r="2.5" fill="#d63384"/>
+      <circle cx="-10" cy="-26" r="2" fill="#d63384"/>
+    </g>
+  </g>
+  <text x="350" y="465" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">AI POWERED</text>
+
+  <!-- ===== Node template helper positions ===== -->
+  <!-- Top: AI -->
+  <g transform="translate(350,130)" filter="url(#softShadow)">
+    <circle r="56" fill="#1f1033" stroke="#d63384" stroke-width="2.5"/>
+    <g transform="translate(0,-10)">
+      <circle r="16" fill="none" stroke="#ff8fb3" stroke-width="2.5"/>
+      <circle cx="0" cy="0" r="5" fill="#ff8fb3"/>
+      <circle cx="-14" cy="-8" r="3" fill="#ff8fb3"/>
+      <circle cx="14" cy="-8" r="3" fill="#ff8fb3"/>
+      <circle cx="-14" cy="8" r="3" fill="#ff8fb3"/>
+      <circle cx="14" cy="8" r="3" fill="#ff8fb3"/>
+      <line x1="0" y1="0" x2="-14" y2="-8" stroke="#ff8fb3" stroke-width="1.5"/>
+      <line x1="0" y1="0" x2="14" y2="-8" stroke="#ff8fb3" stroke-width="1.5"/>
+      <line x1="0" y1="0" x2="-14" y2="8" stroke="#ff8fb3" stroke-width="1.5"/>
+      <line x1="0" y1="0" x2="14" y2="8" stroke="#ff8fb3" stroke-width="1.5"/>
+    </g>
+    <text x="0" y="26" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="15" font-weight="700">AI</text>
+  </g>
+
+  <!-- Top-right: ML -->
+  <g transform="translate(548,240)" filter="url(#softShadow)">
+    <circle r="56" fill="#1f1033" stroke="#8b3dff" stroke-width="2.5"/>
+    <g transform="translate(0,-10)" stroke="#c9a3ff" stroke-width="2.5" fill="none">
+      <polyline points="-18,8 -8,-6 2,2 18,-12"/>
+      <circle cx="18" cy="-12" r="3" fill="#c9a3ff" stroke="none"/>
+    </g>
+    <text x="0" y="26" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="700">ML</text>
+  </g>
+
+  <!-- Bottom-right: Cloud -->
+  <g transform="translate(548,460)" filter="url(#softShadow)">
+    <circle r="56" fill="#1f1033" stroke="#5fd0ff" stroke-width="2.5"/>
+    <g transform="translate(0,-10)" fill="#a9e8ff">
+      <path d="M -16,6 a 10,10 0 0 1 1,-19.8 a 13,13 0 0 1 25,4 a 9,9 0 0 1 -2,15.8 z"/>
+    </g>
+    <text x="0" y="26" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="13" font-weight="700">CLOUD</text>
+  </g>
+
+  <!-- Bottom: DSA -->
+  <g transform="translate(350,570)" filter="url(#softShadow)">
+    <circle r="56" fill="#1f1033" stroke="#ffb86b" stroke-width="2.5"/>
+    <g transform="translate(0,-10)" stroke="#ffd6a3" stroke-width="2.5" fill="none">
+      <circle cx="-14" cy="-8" r="4" fill="#ffd6a3" stroke="none"/>
+      <circle cx="14" cy="-8" r="4" fill="#ffd6a3" stroke="none"/>
+      <circle cx="0" cy="10" r="4" fill="#ffd6a3" stroke="none"/>
+      <line x1="-14" y1="-8" x2="14" y2="-8"/>
+      <line x1="-14" y1="-8" x2="0" y2="10"/>
+      <line x1="14" y1="-8" x2="0" y2="10"/>
+    </g>
+    <text x="0" y="26" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="13" font-weight="700">DSA</text>
+  </g>
+
+  <!-- Bottom-left: Web -->
+  <g transform="translate(152,460)" filter="url(#softShadow)">
+    <circle r="56" fill="#1f1033" stroke="#6bffb3" stroke-width="2.5"/>
+    <g transform="translate(0,-10)" stroke="#a3ffd6" stroke-width="2.5" fill="none">
+      <circle r="16"/>
+      <ellipse rx="7" ry="16"/>
+      <line x1="-16" y1="0" x2="16" y2="0"/>
+      <line x1="-13" y1="-9" x2="13" y2="-9"/>
+      <line x1="-13" y1="9" x2="13" y2="9"/>
+    </g>
+    <text x="0" y="26" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="13" font-weight="700">WEB</text>
+  </g>
+
+  <!-- Top-left: Generic tech/code -->
+  <g transform="translate(152,240)" filter="url(#softShadow)">
+    <circle r="56" fill="#1f1033" stroke="#ff8fb3" stroke-width="2.5"/>
+    <g transform="translate(0,-10)" stroke="#ffd6e8" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="-6,-12 -18,0 -6,12"/>
+      <polyline points="6,-12 18,0 6,12"/>
+    </g>
+    <text x="0" y="26" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="12" font-weight="700">CODE</text>
+  </g>
+
+</svg>

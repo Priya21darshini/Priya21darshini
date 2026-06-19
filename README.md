@@ -91,12 +91,12 @@ Priyadarshini Singh = {
 ![Infosys](https://img.shields.io/badge/Infosys-ML_with_Python-0057A8?style=flat-square&logo=infosys)
 
 ---
-## 🌱 Currently Exploring
+## 🌱 Currently Learning
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Priya21darshini/Priya21darshini/main/assets/tech-circle.svg" width="400"/>
 </div>
----
+
 
 ## 📊 GitHub Stats
 

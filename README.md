@@ -94,17 +94,7 @@ Priyadarshini Singh = {
 ## 🌱 Currently Exploring
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=800&color=8B3DFF&center=true&vCenter=true&width=600&lines=Always+Learning+%E2%9C%A8" />
-
-<br/><br/>
-
-🤖 **LLMs**　&nbsp;|&nbsp;　🧠 **Machine Learning**　&nbsp;|&nbsp;　📐 **DSA**　&nbsp;|&nbsp;　⚡ **Gen AI**　&nbsp;|&nbsp;　☁️ **Cloud Tech**
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=2500&pause=800&color=D63384&center=true&vCenter=true&width=600&lines=Bubbling+with+curiosity+about+AI+%F0%9F%AB%A7;DSA+%2B+LLMs+%3D+my+daily+grind+%F0%9F%92%AB;Exploring+the+future%2C+one+model+at+a+time+%F0%9F%8C%9F" />
-
+<img src="https://raw.githubusercontent.com/Priya21darshini/Priya21darshini/main/assets/tech-circle.svg" width="400"/>
 </div>
 ---
 

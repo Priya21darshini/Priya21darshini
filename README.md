@@ -25,7 +25,7 @@
 ```python
 Priyadarshini Singh = {
     "location": "Bangalore, Karnataka 🇮🇳",
-    "education": "B.E. Computer Science @ CMRIT (2026) | CGPA: 7.81",
+    "education": "B.E. Computer Science @ CMRIT (2026) | CGPA: 7.84",
     "interests": ["AI/ML", "Deep Learning", "Data Analytics", "Full Stack"],
     "internships": ["SuprMentr Technologies", "OasisInfobyte"],
     "looking_for": "Entry-level SWE | Data Analyst | ML Engineer roles",

@@ -67,9 +67,9 @@ Priyadarshini Singh = {
 | Project | Tech | Highlights |
 |---------|------|-----------|
 | 🧠 [Deepfake Detection System](https://github.com/Priya21darshini/DeepFake-Detection-System-using-AI) | ViT, FastAPI, React | 99.75% accuracy on 140k images |
-| 👁️ AI Exam Cheating Detection | Flask, MediaPipe, OpenCV | Real-time pose estimation |
-| 🌤️ WeatherWise AI Assistant | Streamlit, Plotly, API | 5-city real-time weather |
-| 📊 Superstore Sales Dashboard | Power BI, SQL, Python | 10k+ transaction analytics |
+| 👁️ [AI Exam Cheating Detection](https://github.com/Priya21darshini/Exam-cheating-detection) | Flask, MediaPipe, OpenCV | Real-time pose estimation |
+| 🌤️ [WeatherWise AI Assistant](https://github.com/Priya21darshini/AI-Weather-Assistant) | Streamlit, Plotly, API | 5-city real-time weather |
+| 📊 [Superstore Sales Dashboard](https://github.com/Priya21darshini/Superstore-Sales-Performance-Dashboard) | Power BI, SQL, Python | 10k+ transaction analytics |
 
 ---
 
